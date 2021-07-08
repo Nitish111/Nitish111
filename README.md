@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nitish111
-- 👀 I’m interested in new thing.
+- 👀 I’m interested in new things.
 - 🌱 I’m currently learning react-native
 - 💞️ I’m looking to collaborate on react-native  projects
 - 📫 How to reach me mail me on itp10a.nsharma@gmail.com
